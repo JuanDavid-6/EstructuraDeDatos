@@ -14,6 +14,10 @@ public class Ejecutar {
         //mostrar la matriz
         System.out.println(objM.imprimirMatriz(matriz));
 
+        //suma Filas y Columnas
+
+        System.out.println(objM.sumarFilaColumnaMatriz(matriz));
+
 
 
 
